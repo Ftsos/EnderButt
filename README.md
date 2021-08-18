@@ -46,6 +46,6 @@ volumeSound: 100
 `volumeSound`: The Voulume of the Sound that is going to play  
   
 ---
-[**Spigot Page**](https://www.spigotmc.org/resources/ender-butt.95453/)
----
+[Spigot Page](https://www.spigotmc.org/resources/ender-butt.95453/)
+- - -
 *Sorry for english gramatical errors, i'm actually learing it ;).*
