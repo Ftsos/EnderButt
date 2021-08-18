@@ -1,0 +1,7 @@
+#permissions use command: enderbutt.command
+nopermissions: "&cYou don't have permission"
+multiplier: 2
+shouldSound: true
+sound: ENDERMAN_TELEPORT
+pitchSound: 50
+volumeSound: 100

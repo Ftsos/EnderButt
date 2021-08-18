@@ -1,0 +1,8 @@
+name: Enderbutt
+version: ${project.version}
+main: me.ftsos.enderbutt.enderbutt.Enderbutt
+authors: [ ftsos ]
+description: EnderButt :D
+commands:
+  enderbutt:
+    description: gives you an ender butt
