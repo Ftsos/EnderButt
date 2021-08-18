@@ -53,6 +53,6 @@ The Support Is **JUST** going to be given in the Issues Tab Of The GitHub Page o
 ## [**Spigot Page**](https://www.spigotmc.org/resources/ender-butt.95453/)
 - - -
 
-*Sorry for english gramatical errors, i'm actually learing it ;).*
+*Sorry for english gramatical errors, i'm actually learning it ;).*
 
 > _Discord Tag: **F_tsos#4081**_
