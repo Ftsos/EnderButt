@@ -44,7 +44,8 @@ volumeSound: 100
 `pitchSound`: The Pitch of the Sound that is going to play  
   
 `volumeSound`: The Voulume of the Sound that is going to play  
+  
 ---
-[**Spigot Page**![Spigot Image](https://miro.medium.com/max/685/1*inGbpF3IFv_fUC8mbO9_uw.png)](https://www.spigotmc.org/resources/ender-butt.95453/)
+[**Spigot Page**![Spigot Image](https://hub.spigotmc.org/stash/projects/SPIGOT/avatar.png?s=256&v=1414747392000)](https://www.spigotmc.org/resources/ender-butt.95453/)
 ---
 *Sorry for english gramatical errors, i'm actually learing it ;).*
