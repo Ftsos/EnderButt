@@ -44,3 +44,6 @@ volumeSound: 100
 `pitchSound`: The Pitch of the Sound that is going to play  
   
 `volumeSound`: The Voulume of the Sound that is going to play  
+  
+---
+*Sorry for english gramatical errors, i'm actually learing it ;).*
