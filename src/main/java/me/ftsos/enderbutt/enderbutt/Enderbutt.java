@@ -1,6 +1,7 @@
 package me.ftsos.enderbutt.enderbutt;
 
 import me.ftsos.enderbutt.enderbutt.commands.EnderButtCommand;
+import me.ftsos.enderbutt.enderbutt.commands.EnderButtReloadCommand;
 import me.ftsos.enderbutt.enderbutt.listeners.EnderPearlClick;
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
@@ -26,6 +27,7 @@ public final class Enderbutt extends JavaPlugin {
     }
     public void registerCommands(){
         this.getCommand("enderbutt").setExecutor(new EnderButtCommand(this));
+        this.getCommand("enderbuttreload").setExecutor(new EnderButtReloadCommand(this));
     }
 
 

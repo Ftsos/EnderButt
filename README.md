@@ -10,16 +10,15 @@ EnderButt
 Permissions
 -----------
 
-*   **EnderButt Command**: enderbutt.command
-
+*   **EnderButt Command**: `enderbutt.command`
+*   **EnderButt Reload Command**: `enderbutt.reload`
   
 
 Commands
 --------
 
 *   **/enderbutt**: gives you a stack of Ender Butts
-
-  
+*   **/enderbuttreload**: reloads the config of this plugin
 
 Config
 ------
@@ -44,8 +43,16 @@ volumeSound: 100
 `pitchSound`: The Pitch of the Sound that is going to play  
   
 `volumeSound`: The Voulume of the Sound that is going to play  
-  
+
+Support
+--------
+
+The Support Is **JUST** going to be given in the Issues Tab Of The GitHub Page or Discord Contact
+
 ---
 ## [**Spigot Page**](https://www.spigotmc.org/resources/ender-butt.95453/)
 - - -
+
 *Sorry for english gramatical errors, i'm actually learing it ;).*
+
+> _Discord Tag: **F_tsos#4081**_

@@ -6,3 +6,5 @@ description: EnderButt :D
 commands:
   enderbutt:
     description: gives you an ender butt
+  enderbuttreload:
+    description: reloads config of the enderbutt plugin
